@@ -1,0 +1,2 @@
+age,gender,smoking,alcohol_intake,diet_score,physical_activity_level,stress_level,sleep_hours,systolic_bp,diastolic_bp,cholesterol,hdl_cholesterol,ldl_cholesterol,triglycerides,blood_sugar_fasting,bmi,family_history,rppg_heart_rate,rppg_hrv,rppg_respiration_rate,rppg_stress_index,rppg_spo2_estimate,rppg_blood_volume_pulse_amplitude,rppg_skin_temp,mean_bp,chol_hdl_ratio,bmi_category,rppg_combined_stress
+58.0,1.0,1.0,1.0,1.0,1.0,10.0,4.32,165.0,105.0,270.0,28.0,175.0,240.0,160.0,24.2,0.0,70.0,50.0,16.0,40.0,98.0,0.5,34.0,125.0,9.6428567984694,0.0,0.4850000000000001
